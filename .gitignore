@@ -1,0 +1,37 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+env.*
+
+# C++ build artifacts (compiled objects, executables, etc.)
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Model files and joblib artifacts (uncomment if you don't want to track these)
+*.keras
+*.joblib
+
+# Numpy output files (uncomment if these are generated artifacts)
+*.npy
+
+# (Optional) Images and binary data (comment out if you need to track these)
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# (Optional) Zip archives if they are generated; remove if they need to be tracked
+*.zip
