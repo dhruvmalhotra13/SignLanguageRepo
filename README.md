@@ -59,5 +59,5 @@ This project focuses on detecting sign language gestures using an unsupervised l
 ## Acknowledgments
 - OpenCV for image processing techniques.
 - TensorFlow/Keras for deep learning capabilities.
-- The sign language community for inspiring this project.
+- The sign language community for inspiring this project
 
