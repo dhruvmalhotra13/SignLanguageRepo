@@ -21,8 +21,8 @@ env.*
 *.out
 
 # Model files and joblib artifacts (uncomment if you don't want to track these)
-*.keras
-*.joblib
+# *.keras
+# *.joblib
 
 # Numpy output files (uncomment if these are generated artifacts)
 *.npy
